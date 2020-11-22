@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ScriptTCP/TCP_paramRead.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
